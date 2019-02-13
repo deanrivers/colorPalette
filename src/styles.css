@@ -1,0 +1,58 @@
+.App {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#main-container {
+  background: red;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+#first-container {
+  background: blue;
+  flex: 1;
+  text-align: center;
+}
+#second-container {
+  background: orange;
+  flex: 1;
+}
+#third-container {
+  background: green;
+  flex: 1;
+}
+#fourth-container {
+  background: purple;
+  flex: 1;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.hex-value {
+  border: solid 1px red;
+  border-radius: 10px;
+  margin: 10px auto;
+
+  background: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 100px;
+  position: relative;
+}
+
+.rgb-value {
+  border: solid 1px red;
+  border-radius: 10px;
+  margin: 10px auto;
+
+  background: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 100px;
+  position: relative;
+}
