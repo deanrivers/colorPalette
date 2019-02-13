@@ -1,2 +1,2 @@
 # colorPalette
-Simple Color Palette App
+This is a simple Color Palette App
